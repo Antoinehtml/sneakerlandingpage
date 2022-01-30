@@ -1,0 +1,7 @@
+.borderRadius img{
+    border-radius: 15px;
+}
+
+.noBorderRadius img{
+    border-radius: 0;
+}
