@@ -3,7 +3,7 @@ import { Box, Flex } from "@chakra-ui/react"
 import NavBar from './NavBar'
 import Footer from './Footer'
 
-const Layout = ({ children }) => {
+const Layout = ({ children }:{children:any}) => {
     return (
       <>
         <Head>
