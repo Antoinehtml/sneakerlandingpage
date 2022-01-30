@@ -81,7 +81,7 @@ const Home = () => {
         </Heading>
         <Heading as="p" size="sm" color={newColor.darkGrayishBlue} fontWeight="normal" lineHeight="30px">
           These low-profile sneakers are your perfect casual wear companion. 
-          Featuring a durable rubber outer sole, they'll withstand everything 
+          Featuring a durable rubber outer sole, they&apos;ll withstand everything 
           the weather can offer.
         </Heading>
         <Flex align="center" mt="30px">
