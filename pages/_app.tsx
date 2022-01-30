@@ -4,7 +4,7 @@ import customTheme from '../styles/theme'
 
 import Layout from '../components/Layout'
 
-function MyApp({ Component, pageProps }){
+function MyApp({ Component, pageProps }: {Component:any, pageProps:any}){
   return (
     <>
       <Head>
